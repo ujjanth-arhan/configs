@@ -1,1 +1,5 @@
-Contains my config files with location of each mentioned at the top of the file.
+Contains my config files.
+
+1. Starship ~/.config/
+2. Tmux ~/.tmux.conf 
+
